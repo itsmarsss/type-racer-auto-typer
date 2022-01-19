@@ -1,16 +1,26 @@
 <h1 align="center">
 <img src="/assets/icon.png" alt="Icon" width="100" height="100" </img>
+<br>
+Type Racer Auto Typer
+<br>
 </h1>
 
-# Type-Racer-Auto-Typer
-Type racer typer thingy yeah, it is an auto type. Absolutely destroy your friends on [Type Racer](https://play.typeracer.com/)
+## What is Type Racer Typer?
+Type racer typer thingy yeah, it is an auto type. Absolutely destroy your friends on [Type Racer](https://play.typeracer.com/)!
 
-## How to install
+## How to Download?
 Head over to [Releases] and download TypeRacerTyperInstaller.zip
 
 If you are not on windows, head to [[Download]]() and download everything there
 
 *more information when you run the program and click the ⓘ*
+
+## Features
+- Screen capture text so you don't need to inspect page
+- Editable textbox
+- Types out text in textbox when told to
+- 3 second timer to adjust your mouse and where you want the program to type
+- Random weird lisence when you install the program
 
 ## Read Me if you want
 - The .exe file will automatically use the jre as long as they are in the same directory(the .exe file won’t use your pre-installed jre, I will find a solution to that and I will update this folder)
