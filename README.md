@@ -4,6 +4,8 @@
 Type Racer Auto Typer
 <br>
 </h1>
+## NOTICE
+> :warning: :warning: :warning: **WARNING:** This project is no longer maintained; there may be bugs and issues. Feel free to fork this repository, pull requests *may* be accepted. :warning: :warning: :warning:
 
 **What is Type Racer Typer?** -
  Type Racer Typer is an auto typer made to destroy people on Type Racer, go and absolutely destroy your friends on [Type Racer](https://play.typeracer.com/)!
@@ -32,3 +34,6 @@ Also, the tessdata folder has to be in the same directory as the program running
 <p align="center">Making of the program: https://www.youtube.com/watch?v=aULvJVE6Shc</p>
 
 [![Image Link](https://raw.githubusercontent.com/itsmarsss/Type-Racer-Auto-Typer/main/assets/thumbnail.jpg)](https://www.youtube.com/watch?v=aULvJVE6Shc)
+
+### NOTICE
+> :warning: :warning: :warning: **WARNING:** This project is no longer maintained; there may be bugs and issues. Feel free to fork this repository, pull requests *may* be accepted. :warning: :warning: :warning:
