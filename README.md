@@ -4,6 +4,7 @@
 Type Racer Auto Typer
 <br>
 </h1>
+
 ## NOTICE
 > :warning: :warning: :warning: **WARNING:** This project is no longer maintained; there may be bugs and issues. Feel free to fork this repository, pull requests *may* be accepted. :warning: :warning: :warning:
 
