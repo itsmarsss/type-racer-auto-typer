@@ -34,7 +34,7 @@ Also, the tessdata folder has to be in the same directory as the program running
 ## The Makings of this program
 <p align="center">Making of the program: https://www.youtube.com/watch?v=aULvJVE6Shc</p>
 
-[![Image Link](https://raw.githubusercontent.com/itsmarsss/Type-Racer-Auto-Typer/main/assets/thumbnail.jpg)](https://www.youtube.com/watch?v=aULvJVE6Shc)
+[![Image Link](https://img.youtube.com/vi/aULvJVE6Shc/maxresdefault.jpg)](https://www.youtube.com/watch?v=aULvJVE6Shc)
 
 ### NOTICE
 > :warning: :warning: :warning: **WARNING:** This project is no longer maintained; there may be bugs and issues. Feel free to fork this repository, pull requests *may* be accepted. :warning: :warning: :warning:
