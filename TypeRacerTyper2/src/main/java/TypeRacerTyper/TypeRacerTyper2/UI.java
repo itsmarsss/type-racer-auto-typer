@@ -110,7 +110,9 @@ public class UI {
 
 		InfoButton.addMouseListener(new MouseListener() {
 			public void mouseClicked(MouseEvent e) {
-				textArea.setText("INFORMATION: "
+				textArea.setText("Join our Discord: https://discord.gg/K8hgFHWeJQ"
+						+ "Visit YouTube Channel: \"Join our Discord: https://discord.gg/K8hgFHWeJQ\""
+						+ "\n\nINFORMATION: "
 						+ "\n\n\t---How To Use---"
 						+ "\nmethod #1:"
 						+ "\n   A. Inspect the Type Racer page and copy the unselectable text"
@@ -127,7 +129,7 @@ public class UI {
 						+ "\n   - simulates keystrokes to type"
 						+ "\n   - uses Tesseract OCR to read your selection area"
 						+ "\n   - reads English by default (can be changed in \"C:\\Program Files (x86)\\Type Racer Typer\\tessdata\" if you know how to)"
-						+ "\n   - is written in Java (by a random Dude)");
+						+ "\n   - is written in Java (by Marsss)");
 				textArea.setCaretPosition(0);
 			}
 			public void mouseEntered(MouseEvent e) {
