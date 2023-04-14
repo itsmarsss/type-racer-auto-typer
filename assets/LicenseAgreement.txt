@@ -1,0 +1,1 @@
+I really don't know what to put here, but basically this program simulates keystrokes to type and there is no hotkey to stop it. So if it starts typing you can't stop it, breaks your computer? Not my fault.
