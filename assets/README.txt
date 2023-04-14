@@ -1,5 +1,5 @@
 Join our Discord: https://discord.gg/K8hgFHWeJQ
-Visit YouTube Channel: https://www.youtube.com/watch?v=aULvJVE6Shc
+YouTube Channel: https://youtu.be/aULvJVE6Shc
 
 INFORMATION: 
 

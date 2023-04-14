@@ -111,7 +111,7 @@ public class UI {
 		InfoButton.addMouseListener(new MouseListener() {
 			public void mouseClicked(MouseEvent e) {
 				textArea.setText("Join our Discord: https://discord.gg/K8hgFHWeJQ"
-						+ "Visit YouTube Channel: https://www.youtube.com/watch?v=aULvJVE6Shc"
+						+ "\nYouTube Channel: https://youtu.be/aULvJVE6Shc"
 						+ "\n\nINFORMATION: "
 						+ "\n\n\t---How To Use---"
 						+ "\nmethod #1:"
